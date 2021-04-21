@@ -22,6 +22,9 @@ a {
 a:hover {
   color: black;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 /* Custom design with classes */
 .banner{
